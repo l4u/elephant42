@@ -154,7 +154,7 @@ Also, if there is a work space in a place that is easily accessible from home, y
 - Soldering wire
   - [goot solder blotting wire CP-3015](https://www.amazon.co.jp/dp/B001PR1KPQ)
 - Soldering iron
-  - [White light dial type temperature control soldering iron FX600](https://www.amazon.co.jp/dp/B006MQD7M4)
+  - [HAKKO dial type temperature control soldering iron FX600](https://www.amazon.co.jp/dp/B006MQD7M4)
   - **We strongly recommend that you have a temperature control function**
 - Iron stand
   - [HAKKO trowel stand 633-01](https://www.amazon.co.jp/dp/B000TGNWCS)
